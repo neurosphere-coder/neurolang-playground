@@ -1,1 +1,1 @@
-# Neurolang Playground
+# Neurolang playground
